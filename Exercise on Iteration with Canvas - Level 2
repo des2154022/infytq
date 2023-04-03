@@ -1,11 +1,5 @@
 Pseudo-code
-for(Counter=
-0
-, Counter<=
-2
-, Counter=
-Counter+1
- )
+for(Counter=0, Counter<=2, Counter=Counter+1)
 
 add Mountain
 end-for
@@ -14,13 +8,7 @@ display Moon
 display Nightsky
 display Rain
 add Tree
-for(Counter=
-0
-, Counter<=
-1
-, Counter=
-Counter+1
- )
+for(Counter=0, Counter<=1, Counter=Counter+1)
 
 add Sheep
 end-for
