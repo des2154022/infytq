@@ -6,3 +6,11 @@ https://infytq.onwingspan.com/web/en/viewer/web-module/lex_auth_0126272913921638
 You Tube Tutorials
 
 https://www.youtube.com/watch?v=5nxoUhpu6cU
+
+
+This link below has the answers but they are not labeled correctly to match name of homework assignments
+
+https://github.com/SUDARSHANTADAGE/InfyTQ-Answers/blob/master/Programming%20Fundamental%20Using%20Python/Day%202/PF-Exer-7.py
+
+
+
