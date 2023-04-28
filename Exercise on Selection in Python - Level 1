@@ -1,0 +1,18 @@
+def display(num):
+  message = "";
+if num % 5 == 0 and num % 3 ==0: #IF DIVISIBLE BY 5 AND 3
+  message = "Zoom"
+if num % 3== 0:# IF DIVISIBLE BY 3
+  message = "Zip";
+if num % 5 == 0:  # IF DIVISIBLE BY 5
+  message = "Zap"
+else: #IF NOT DIVISIBLE BY 5 OR 3
+  message = "Invalid"
+  
+  
+return message
+
+
+message = display(9)  # CALL THE FUNCTION
+print(message)
+  
