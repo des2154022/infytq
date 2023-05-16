@@ -13,4 +13,6 @@ This link below has the answers but they are not labeled correctly to match name
 https://github.com/SUDARSHANTADAGE/InfyTQ-Answers/blob/master/Programming%20Fundamental%20Using%20Python/Day%202/PF-Exer-7.py
 
 
+**THIS LINK BELOW IS List of dedicated websites by Technical Companies in providing Software Courses:**
+https://gist.github.com/Git-Harshit/459591833e52f52edf8fbbc09f198605
 
